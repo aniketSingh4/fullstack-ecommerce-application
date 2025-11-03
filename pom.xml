@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.aniketSingh</groupId>
+  <artifactId>fullstack_ecommerce_application</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>FullStack Ecommerce Application</name>
+  <description>In this project, I just want to implement all the technology which i know related to java framework.</description>
+  <modules>
+  	<module>awqp_module</module>
+  	<module>User_Service</module>
+  </modules>
+</project>
